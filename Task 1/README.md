@@ -1,0 +1,1 @@
+Repository ini berisi dokumentasi dan praktik **Ekstraksi dan Pengolahan Data Web** melalui Web Scraping dan Web API menggunakan R/Python, mulai dari proses pengambilan data, parsing HTML/JSON, pembersihan, hingga transformasi menjadi Tidy Data yang siap untuk analisis lebih lanjut.
